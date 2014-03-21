@@ -1,0 +1,50 @@
+echo # Creates a new ssh key, using the provided email as a label
+cd ~/.ssh
+cd /c/Users/jesusalc/.ssh/
+c:
+cd /c/Users/jesusalc/.ssh/
+cd /Users/jesusalc/.ssh
+ssh-add id_rsa
+which git
+cd g:\Git\cmd\
+ls
+g:
+ls
+cat git.cmd
+%git_install_root%
+cd %git_install_root%
+echo %git_install_root%
+echo %git_install_root%cd \
+cd \
+cd Git
+ls
+cd bin
+ls
+ssh-agent -s
+dir *xml
+dir *xml*
+dir *.log
+cd \
+cd \www
+cd chiclancer
+cd v3
+cd public_v3
+dir *.log
+cat *.log
+cd ..
+cd public_v3.3
+DOSKEY /HISTORY > command_prompt.log
+xcopy public_v3\*.* public_v3.3 /s /y 
+cd public_v3.3
+git add .
+git commit -m "second commit"
+bundle exec rake db:create schema
+bundle exec rake db:schema:dump 
+git add .
+git commit -m "third commit"
+git push origin master
+cd ..
+mkdir .ssh
+cd .ssh
+ls -al
+ssh-keygen -t rsa -C "nina2014@chiclancer.com""
