@@ -1,4 +1,3 @@
-chiclancer_v3
-=============
+resume-listing
 
-A social network for women developers
+List and upload resumes on rails 
